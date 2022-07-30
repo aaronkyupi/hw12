@@ -1,2 +1,2 @@
 # hw12
-This is Aaronk's honework
+This is Aaronk's homework
